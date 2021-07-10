@@ -125,5 +125,42 @@ h1, h2, h4{
     border-radius: 7px;
 }
 
+.search {
+    background-color: rgb(15, 15, 15);
+    width: 55%;
+    margin: 1rem auto;
+    border: 1px solid rgb(99, 99, 99);
+    border-radius: 25px;
+    padding: 1rem 0 10rem;
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+}
+
+.button {
+    background-color: darkgray;
+    color: black;
+}
+
+.about {
+    background-color: rgb(25, 25, 25);
+    margin: 1rem auto;
+    padding: 1rem 10rem;
+    width: 55%;
+    border: 1px solid darkgray;
+    border-radius: 20px;
+}
+
+#contact {
+    background-color: black;
+    margin: auto;
+    padding: 0.5rem 10rem;
+}
+
+#contactForm {
+    margin: auto;
+    display: block;
+
+}
+
 
 
